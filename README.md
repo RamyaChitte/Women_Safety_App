@@ -1,7 +1,8 @@
 
 # SURAKSHA
 
-Safety for women has become a major issue as the day-by-day cases increasing in all over the world. This proposed project explains women's safety and their security by using an application to send alert message, showing safe location & alert authorities. It suggests a replacement view to use technology to guard women. In this project, an android-based smartphone with an integrated feature that alerts and provides location-based information. It provides self-defence and SMS alert when a woman is in danger The usage of smart phones equipped with GPS navigation unit have increased rapidly from 3% to more than 20% in the past five years. Hence, a smart phone can be used efficiently for personal safety or various other protection purposes especially for women. This app can be activated by a single click when the user feels she is in danger. This application communicates the user’s location to the registered contacts for every few seconds in the form of message. Thus, it acts like a sentinel following behind the person till the user feels she is safe. This project presents analysis a unique feature of this application to send the message to the registered contacts continuously once after pressing ‘ALARM’ button. Continuous location tracking information via SMS helps to find the location of the victim quickly and can be rescued safely. This application aims to ensure women safety. This is achieved by addressing the circumstances that compromise the safety of women in today’s day and age. This app ensures women are not put into such situations through various features offered by our system.
+Safety for women has become a major issue as the day-by-day cases increasing in all over the world. This proposed project explains women's safety and their security by using an application to send alert message, showing safe location & alert authorities. It suggests a replacement view to use technology to guard women. In this project, an android-based smartphone with an integrated feature that alerts and provides location-based information. It provides self-defence and SMS alert when a woman is in danger. 
+The basic problem with the police handling of critical occurrences such as women’s harassment is that they are not always able to respond swiftly to distress calls. These limitations include not knowing the location of the crime and not knowing the crime is occurring at all. It is difficult for the victim to call the police confidently and quietly. So, the problem is to provide safety in a more efficient way for women by utilizing the advancements in technology. To aid in the removal of these prohibitions, this android mobile application presents the Women's Safety Application Suraksha, a smartphone app that provides a reliable way for women to inform about their location during emergency situations to their closed ones or also to call the police in an emergency. 
 
 
 ## Objectives
@@ -14,6 +15,11 @@ To provide a platform for women to express their grievances, or any abuse agains
 To provide 24/7 active help and companion for women so that they don't ever feel that they are alone in the middle of a crisis situation.
 To build an effective, fast and reliant system to make the women of India feel safe and empowered.
 To provide a user-friendly and highly scalable interface for women.
+
+
+## Software
+Implemented in Android Studio Bundle with Java. Java JDK must be installed.
+Firebase is used for Database.
 
 
 
